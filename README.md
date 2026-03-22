@@ -16,4 +16,4 @@ This project helps users compare global vs India prices by calculating hidden co
 Steps to run your project
 
 ## Live Demo
-(Add later)
+https://velavan1234.github.io/AI-Powered-True-Cost-Calculator-for-International-Purchases/
