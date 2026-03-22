@@ -1,2 +1,19 @@
-# AI-Powered-True-Cost-Calculator-for-International-Purchases
-An intelligent price comparison tool that analyzes global vs India product pricing, uncovering hidden costs such as import duties, GST, shipping fees, and currency conversion to reveal the true cost of international purchases.
+# AI-Powered True Cost Calculator for International Purchases
+
+## Description
+This project helps users compare global vs India prices by calculating hidden costs like GST, shipping, customs duty, and currency conversion.
+
+## Features
+- Global vs India price comparison
+- Hidden cost calculation
+- Currency conversion
+- Cost breakdown
+
+## Tech Stack
+- Python / JavaScript / HTML / CSS (edit based on your project)
+
+## How to Run
+Steps to run your project
+
+## Live Demo
+(Add later)
